@@ -40,3 +40,4 @@ Untuk memulai, Anda dapat meng-clone repositori ini dan menjalankan proyek secar
 1. **Clone repositori:**
    ```bash
    git clone git@github.com:lifycryz/Scriptify.git
+   ```
